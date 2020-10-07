@@ -1,7 +1,7 @@
 # SW_roverlink
 Audio input and output testing on pi3
 
-I used Pi3 Model B V1.2  and standard headset connected to a MPOW HC ADC USB adapter.
+Dev setup: Pi3 Model B V1.2  and standard headset connected to a MPOW HC ADC USB adapter.
 
 Notes: 
 - pyaudio-record.py and usb-audio-input.py do not run with python3, only pyhton and python 2
